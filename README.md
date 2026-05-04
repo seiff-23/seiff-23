@@ -12,7 +12,6 @@ Je suis **Seif Eddine Mechkene**, développeur Full-Stack passionné par la créati
 - **Database** : MongoDB, Mongoose
 - **Outils** : Git, GitHub, VS Code
 
-### ?? Mes stats GitHub
 
 
 ### ?? Me contacter
