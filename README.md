@@ -1,102 +1,100 @@
-##### \# ?? Bonjour, je suis Seif Eddine Mechkene
+\# Bonjour, je suis Seif Eddine Mechkene
 
-##### 
 
-##### \*\*Développeur Full-Stack\*\* passionné par la création d'applications web modernes, robustes et intuitives.
 
-##### 
+\*\*Developpeur Full-Stack\*\* passionne par la creation d'applications web modernes, robustes et intuitives.
 
-##### \---
 
-##### 
 
-##### \## ??? Technologies
+\---
 
-##### 
 
-##### | Catégorie | Technologies |
 
-##### |-----------|--------------|
+\## Technologies
 
-##### | \*\*Frontend\*\* | React.js, Next.js, TypeScript, Bootstrap, Tailwind CSS |
 
-##### | \*\*Backend\*\* | Node.js, Express, REST API, JWT |
 
-##### | \*\*Base de données\*\* | MongoDB, Mongoose |
+| Categorie | Technologies |
 
-##### | \*\*Outils\*\* | Git, GitHub, VS Code, Vite |
+|-----------|--------------|
 
-##### 
+| \*\*Frontend\*\* | React.js, Next.js, TypeScript, Bootstrap, Tailwind CSS |
 
-##### \---
+| \*\*Backend\*\* | Node.js, Express, REST API, JWT |
 
-##### 
+| \*\*Base de donnees\*\* | MongoDB, Mongoose |
 
-##### \## ?? Me contacter
+| \*\*Outils\*\* | Git, GitHub, VS Code, Vite |
 
-##### 
 
-##### \- ?? Email : \[seifmechkene24@gmail.com](mailto:seifmechkene24@gmail.com)
 
-##### \- ?? GitHub : \[github.com/seiff-23](https://github.com/seiff-23)
+\---
 
-##### \- ?? Téléphone : +216 27 177 501
 
-##### 
 
-##### \---
+\## Me contacter
 
-##### 
 
-##### \## ? Projets épinglés
 
-##### 
+\- Email : seifmechkene24@gmail.com
 
-##### | Projet | Description | Stack |
+\- GitHub : github.com/seiff-23
 
-##### |--------|-------------|-------|
+\- Telephone : +216 27 177 501
 
-##### | \*\*FinanceFlow\*\* | Application de gestion des finances personnelles avec dashboard, transactions et budget | React, Node.js, MongoDB, Tailwind |
 
-##### | \*\*CareerBoard\*\* | Suivi des candidatures avec tableau Kanban et statistiques | React, Node.js, MongoDB |
 
-##### | \*\*Car Space\*\* | Plateforme de location de voitures full-stack | MERN Stack |
+\---
 
-##### | \*\*Movie App\*\* | Recherche et visualisation de films via API | React |
 
-##### | \*\*ToDo App\*\* | Application de gestion de tâches | React |
 
-##### 
+\## Projets epingles
 
-##### \---
 
-##### 
 
-##### \## ?? Mon dernier projet : FinanceFlow
+| Projet | Description | Stack |
 
-##### 
+|--------|-------------|-------|
 
-##### \[!\[FinanceFlow](https://img.shields.io/badge/FinanceFlow-Personal\_Finance-6366f1?style=for-the-badge\&logo=react)](https://github.com/seiff-23/FinanceFlow)
+| \*\*FinanceFlow\*\* | Gestion des finances personnelles (dashboard, transactions, budget) | React, Node.js, MongoDB, Tailwind |
 
-##### 
+| \*\*CareerBoard\*\* | Suivi des candidatures avec tableau Kanban | React, Node.js, MongoDB |
 
-##### Application complète de gestion des finances personnelles :
+| \*\*Car Space\*\* | Plateforme de location de voitures | MERN Stack |
 
-##### 
+| \*\*Movie App\*\* | Recherche de films via API | React |
 
-##### \- ?? Dashboard avec graphiques interactifs
+| \*\*ToDo App\*\* | Gestion de taches | React |
 
-##### \- ?? Ajout/Modification/Suppression de transactions
 
-##### \- ?? Export CSV
 
-##### \- ?? Gestion de budget par catégorie
+\---
 
-##### \- ?? Mode sombre/clair
 
-##### \- ?? Authentification sécurisée
 
-##### 
+\## Mon dernier projet : FinanceFlow
 
-##### > ?? \[Voir le projet sur GitHub](https://github.com/seiff-23/FinanceFlow)
+
+
+Lien : https://github.com/seiff-23/FinanceFlow
+
+
+
+Fonctionnalites :
+
+\- Dashboard avec graphiques interactifs
+
+\- Gestion des transactions (CRUD)
+
+\- Export CSV
+
+\- Budget par categorie
+
+\- Mode sombre / clair
+
+\- Authentification securisee (JWT)
+
+
+
+Stack technique : React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, JWT
 
