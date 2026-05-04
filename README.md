@@ -1,100 +1,123 @@
-\# Bonjour, je suis Seif Eddine Mechkene
+# 👋 Bonjour, je suis Seif Eddine Mechkene
 
+💻 **Développeur Full-Stack** passionné par la création d'applications
+web modernes, performantes et intuitives.\
+🚀 J'aime transformer des idées en produits concrets avec une vraie
+valeur utilisateur.
 
+------------------------------------------------------------------------
 
-\*\*Developpeur Full-Stack\*\* passionne par la creation d'applications web modernes, robustes et intuitives.
+## 🧑‍💻 À propos de moi
 
+-   🎓 Étudiant en technologie de l'informatique\
+-   🌍 Basé en Tunisie\
+-   🔍 Actuellement à la recherche d'opportunités (stage / job /
+    remote)\
+-   ⚡ Intérêt particulier pour les apps SaaS, dashboards et outils
+    productifs
 
+------------------------------------------------------------------------
 
-\---
+## ⚙️ Stack Technique
 
+### 🎨 Frontend
 
+-   React.js\
+-   Next.js\
+-   TypeScript\
+-   Tailwind CSS\
+-   Bootstrap
 
-\## Technologies
+### 🧠 Backend
 
+-   Node.js\
+-   Express.js\
+-   REST APIs\
+-   JWT Authentication
 
+### 🗄️ Base de données
 
-| Categorie | Technologies |
+-   MongoDB\
+-   Mongoose
 
-|-----------|--------------|
+### 🛠️ Outils & Environnement
 
-| \*\*Frontend\*\* | React.js, Next.js, TypeScript, Bootstrap, Tailwind CSS |
+-   Git & GitHub\
+-   VS Code\
+-   Vite
 
-| \*\*Backend\*\* | Node.js, Express, REST API, JWT |
+------------------------------------------------------------------------
 
-| \*\*Base de donnees\*\* | MongoDB, Mongoose |
+## 📫 Me contacter
 
-| \*\*Outils\*\* | Git, GitHub, VS Code, Vite |
+-   📧 Email : **seifmechkene24@gmail.com**\
+-   💻 GitHub : https://github.com/seiff-23\
+-   📱 Téléphone : **+216 27 177 501**
 
+------------------------------------------------------------------------
 
+## 🚀 Projets phares
 
-\---
+### 💰 FinanceFlow
 
+> Application de gestion de finances personnelles
 
+🔗 https://github.com/seiff-23/FinanceFlow
 
-\## Me contacter
+**Fonctionnalités :**\
+- 📊 Dashboard avec graphiques interactifs\
+- 💸 Gestion complète des transactions (CRUD)\
+- 📁 Export des données en CSV\
+- 🧾 Budget par catégorie\
+- 🌙 Mode sombre / clair\
+- 🔐 Authentification sécurisée (JWT)
 
+**Stack :**\
+React • TypeScript • Tailwind CSS • Node.js • Express • MongoDB
 
+------------------------------------------------------------------------
 
-\- Email : seifmechkene24@gmail.com
+### 📌 CareerBoard
 
-\- GitHub : github.com/seiff-23
+> Suivi des candidatures avec interface Kanban
 
-\- Telephone : +216 27 177 501
+-   Gestion des candidatures\
+-   Organisation visuelle (To Apply / Applied / Interview / Offer)\
+-   Stack : MERN
 
+------------------------------------------------------------------------
 
+### 🚗 Car Space
 
-\---
+> Plateforme de location de voitures
 
+-   Catalogue de voitures\
+-   Réservation\
+-   Stack : MERN
 
+------------------------------------------------------------------------
 
-\## Projets epingles
+### 🎬 Movie App
 
+> Application de recherche de films via API
 
+-   Recherche dynamique\
+-   Affichage des détails\
+-   Stack : React
 
-| Projet | Description | Stack |
+------------------------------------------------------------------------
 
-|--------|-------------|-------|
+### ✅ ToDo App
 
-| \*\*FinanceFlow\*\* | Gestion des finances personnelles (dashboard, transactions, budget) | React, Node.js, MongoDB, Tailwind |
+> Gestion simple et efficace des tâches
 
-| \*\*CareerBoard\*\* | Suivi des candidatures avec tableau Kanban | React, Node.js, MongoDB |
+-   Ajout / suppression / modification\
+-   UI minimaliste\
+-   Stack : React
 
-| \*\*Car Space\*\* | Plateforme de location de voitures | MERN Stack |
+------------------------------------------------------------------------
 
-| \*\*Movie App\*\* | Recherche de films via API | React |
+## 📈 Objectif
 
-| \*\*ToDo App\*\* | Gestion de taches | React |
-
-
-
-\---
-
-
-
-\## Mon dernier projet : FinanceFlow
-
-
-
-Lien : https://github.com/seiff-23/FinanceFlow
-
-
-
-Fonctionnalites :
-
-\- Dashboard avec graphiques interactifs
-
-\- Gestion des transactions (CRUD)
-
-\- Export CSV
-
-\- Budget par categorie
-
-\- Mode sombre / clair
-
-\- Authentification securisee (JWT)
-
-
-
-Stack technique : React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, JWT
-
+🎯 Devenir un développeur full-stack confirmé et travailler sur des
+projets internationaux innovants.
