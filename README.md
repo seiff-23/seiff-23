@@ -5,14 +5,11 @@ web modernes, performantes et intuitives.
 🚀 J'aime transformer des idées en produits concrets avec une vraie
 valeur utilisateur.
 
-\---
 
 ## 🧑‍💻 À propos de moi
 
 * 🎓 Étudiant en technologie de l'informatique\\
 * 🌍 Basé en Tunisie\\
-* 🔍 Actuellement à la recherche d'opportunités (stage / job /
-remote)\\
 * ⚡ Intérêt particulier pour les apps SaaS, dashboards et outils
 productifs
 
@@ -75,21 +72,4 @@ productifs
 
 **Stack :**  
 React • TypeScript • Tailwind CSS • Node.js • Express • MongoDB
-
-\---
-
-### 📌 CareerBoard
-
-> Suivi des candidatures avec interface Kanban
-
-* Gestion des candidatures\\
-* Organisation visuelle (To Apply / Applied / Interview / Offer)\\
-* Stack : MERN
-
-\---
-
-## 📈 Objectif
-
-🎯 Devenir un développeur full-stack confirmé et travailler sur des
-projets internationaux innovants.
 
