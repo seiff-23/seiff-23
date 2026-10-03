@@ -14,6 +14,8 @@
 
 Les dépôts contiennent le code et les instructions disponibles pour explorer chaque projet.
 
+[Voir l'interface publiée de CareerBoard](https://career-board-orpin.vercel.app) · L'accès aux candidatures nécessite une connexion.
+
 ## Compétences
 
 - **Frontend :** React, TypeScript, Tailwind CSS, Bootstrap, Vite
