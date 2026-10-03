@@ -1,75 +1,33 @@
-# 👋 Bonjour, je suis Seif Eddine Mechkene
+# Bonjour, je suis Seif Eddine Mechkene 👋
 
-💻 **Développeur Full-Stack** passionné par la création d'applications
-web modernes, performantes et intuitives.  
-🚀 J'aime transformer des idées en produits concrets avec une vraie
-valeur utilisateur.
+**Développeur full-stack · React, TypeScript, Node.js et MongoDB · Tunisie**
 
+Étudiant en technologie de l'informatique, je développe des applications web autour de la gestion, des dashboards et des outils de productivité. J'aime transformer une idée en parcours utilisateur concret, du frontend à l'API.
 
-## 🧑‍💻 À propos de moi
+## Projets à découvrir
 
-* 🎓 Étudiant en technologie de l'informatique\\
-* 🌍 Basé en Tunisie\\
-* ⚡ Intérêt particulier pour les apps SaaS, dashboards et outils
-productifs
+| Projet | Objectif | Technologies |
+| --- | --- | --- |
+| [FinanceFlow](https://github.com/seiff-23/FinanceFlow) | Suivi des transactions, budgets mensuels, graphiques et export CSV | React, TypeScript, Tailwind CSS, Express, MongoDB |
+| [CareerBoard](https://github.com/seiff-23/CareerBoard) | Suivi des candidatures avec dashboard et tableau Kanban | React, TypeScript, Tailwind CSS, Express, MongoDB |
+| Car Space — [Frontend](https://github.com/seiff-23/car-space-frontend) · [Backend](https://github.com/seiff-23/car-space-backend) | Application autour des annonces automobiles, avec interface React et API dédiée | React, Redux, Node.js, Express, MongoDB |
 
-\---
+Les dépôts contiennent le code et les instructions disponibles pour explorer chaque projet.
 
-## ⚙️ Stack Technique
+## Compétences
 
-### 🎨 Frontend
+- **Frontend :** React, TypeScript, Tailwind CSS, Bootstrap, Vite
+- **Backend :** Node.js, Express, API REST, authentification JWT
+- **Données :** MongoDB, Mongoose
+- **Outils :** Git, GitHub, VS Code
+- **Autres technologies étudiées :** Next.js
 
-* React.js\\
-* Next.js\\
-* TypeScript\\
-* Tailwind CSS\\
-* Bootstrap
+## Ce qui m'intéresse
 
-### 🧠 Backend
+Les applications SaaS, les dashboards et les outils qui simplifient des tâches quotidiennes.
 
-* Node.js\\
-* Express.js\\
-* REST APIs\\
-* JWT Authentication
+## Contact
 
-### 🗄️ Base de données
-
-* MongoDB\\
-* Mongoose
-
-### 🛠️ Outils \& Environnement
-
-* Git \& GitHub\\
-* VS Code\\
-* Vite
-
-\---
-
-## 📫 Me contacter
-
-* 📧 Email : **seifmechkene24@gmail.com**\\
-* 💻 GitHub : https://github.com/seiff-23\\
-* 📱 Téléphone : **+216 27 177 501**
-
-\---
-
-## 🚀 Projets phares
-
-### 💰 FinanceFlow
-
-> Application de gestion de finances personnelles
-
-🔗 https://github.com/seiff-23/FinanceFlow
-
-**Fonctionnalités :**\\
-
-* 📊 Dashboard avec graphiques interactifs\\
-* 💸 Gestion complète des transactions (CRUD)\\
-* 📁 Export des données en CSV\\
-* 🧾 Budget par catégorie\\
-* 🌙 Mode sombre / clair\\
-* 🔐 Authentification sécurisée (JWT)
-
-**Stack :**  
-React • TypeScript • Tailwind CSS • Node.js • Express • MongoDB
-
+- [Email](mailto:seifmechkene24@gmail.com)
+- [GitHub](https://github.com/seiff-23)
+- Téléphone : +216 27 177 501
